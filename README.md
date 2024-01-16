@@ -1,3 +1,3 @@
 # Linear Regression
 
-![Alt Text](assets/Sandra's Stand.webp)
+![Sandra's Lemonade Stand](assets/Sandra's%20Stand.webp)
